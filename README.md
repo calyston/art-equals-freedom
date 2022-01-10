@@ -6,7 +6,7 @@ Art Equals Freedom is a stylish ecommerce store selling print on demand tshirts 
 
 #### Project Goals
 
-01 - To design and build a functional ecommerce website using Adobe XD and WordPress Woocommerce
+01 - To design an ecommerce website using Adobe XD
 
 ### Site Map
 
